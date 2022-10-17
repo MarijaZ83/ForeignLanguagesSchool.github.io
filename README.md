@@ -1,4 +1,5 @@
 # ForeignLanguagesSchool
+https://marijaz83.github.io/ForeignLanguagesSchool.github.io/
 - View the optimal layout for the app depending on their device's screen size (mobile, tablet min-width: 768px, desktop min-width: 992px)
 - Use Models folder as guide for all version of layouts
 - Change menu nav layout depends on device's screen size (one layout for mobile verson, mutual for other)
